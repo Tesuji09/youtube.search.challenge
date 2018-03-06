@@ -1,4 +1,5 @@
 .searchResultsContainer li{
+   list-style-type: none;
     border: solid lightgrey;
     margin-top: 10px;
     padding:10px
